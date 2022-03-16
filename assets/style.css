@@ -1,0 +1,87 @@
+body{
+	background-color: #f3f3f3;
+	font-family: Trebuchet MS;
+}
+
+
+#content {
+    width:1500px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 10px 10px 10px 10px;
+}
+
+
+#year {
+	width: 15%;
+	float: left;
+	padding: 0% 2% 0% 0%;
+}
+
+#state {
+	width: 83%;
+	float: left;
+}
+
+
+#options-div {
+	width: 100%;
+}
+
+
+#race-plot {
+	height: 40%;
+	width: 99%;
+	float: left;
+}
+
+
+#cities-plot {
+	height: 50%;
+	width: 99%;
+	float: left;
+}
+
+
+#bar-div {
+	width:45%;
+	height: 725px;
+	float: left;
+	overflow: auto;
+}
+
+
+#map-div {
+	width:55%;
+	height:100%;
+	float: left;
+	overflow: auto;
+	background-color: #f3f3f3;
+}
+
+
+#map {
+	height: 600px;
+	background-color: #f3f3f3;
+}
+
+
+#gender-data-div {
+	width:100%;
+	float: left;
+	overflow: auto;
+}
+
+
+#pie {
+	width:35%;
+	padding: 0px 5% 0px 0px;
+	float: left;
+}
+
+
+#kde {
+	width:60%;
+	float: left;
+}
+
